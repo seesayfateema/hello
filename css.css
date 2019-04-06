@@ -1,0 +1,20 @@
+body{
+	font-family: "century gothic", verdane, sans-serif;
+	color : white; 
+	background-color : #f39c12;
+}
+h1{
+	top: 40%;
+	width: 100%;
+	font-family: helvetica;
+	font-size: 100;
+	text-align: center;
+}
+.div1{
+	align-self: center;
+	width: 500px;
+	height: auto;
+	background-color:#ffda79;
+	padding : 20px;
+	border : 20px solid #ccae62;
+}
