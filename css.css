@@ -18,3 +18,11 @@ h1{
 	padding : 20px;
 	border : 20px solid #ccae62;
 }
+.div2{
+	align-self: center;
+	width: 500px;
+	height: auto;
+	background-color: #ff5252;
+	padding : 20px;
+	border : 20px solid #b33939;
+}
